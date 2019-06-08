@@ -1,0 +1,11 @@
+D:\13.12.2018\SoftUni\Judge\LeetCode\LeetCode\01. TwoSum\bin\Debug\netcoreapp2.1\01. TwoSum.deps.json
+D:\13.12.2018\SoftUni\Judge\LeetCode\LeetCode\01. TwoSum\bin\Debug\netcoreapp2.1\01. TwoSum.runtimeconfig.json
+D:\13.12.2018\SoftUni\Judge\LeetCode\LeetCode\01. TwoSum\bin\Debug\netcoreapp2.1\01. TwoSum.runtimeconfig.dev.json
+D:\13.12.2018\SoftUni\Judge\LeetCode\LeetCode\01. TwoSum\bin\Debug\netcoreapp2.1\01. TwoSum.dll
+D:\13.12.2018\SoftUni\Judge\LeetCode\LeetCode\01. TwoSum\bin\Debug\netcoreapp2.1\01. TwoSum.pdb
+D:\13.12.2018\SoftUni\Judge\LeetCode\LeetCode\01. TwoSum\obj\Debug\netcoreapp2.1\01. TwoSum.csprojAssemblyReference.cache
+D:\13.12.2018\SoftUni\Judge\LeetCode\LeetCode\01. TwoSum\obj\Debug\netcoreapp2.1\01. TwoSum.csproj.CoreCompileInputs.cache
+D:\13.12.2018\SoftUni\Judge\LeetCode\LeetCode\01. TwoSum\obj\Debug\netcoreapp2.1\01. TwoSum.AssemblyInfoInputs.cache
+D:\13.12.2018\SoftUni\Judge\LeetCode\LeetCode\01. TwoSum\obj\Debug\netcoreapp2.1\01. TwoSum.AssemblyInfo.cs
+D:\13.12.2018\SoftUni\Judge\LeetCode\LeetCode\01. TwoSum\obj\Debug\netcoreapp2.1\01. TwoSum.dll
+D:\13.12.2018\SoftUni\Judge\LeetCode\LeetCode\01. TwoSum\obj\Debug\netcoreapp2.1\01. TwoSum.pdb

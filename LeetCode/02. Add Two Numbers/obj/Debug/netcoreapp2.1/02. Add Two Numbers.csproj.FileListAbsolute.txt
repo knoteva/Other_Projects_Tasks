@@ -1,0 +1,11 @@
+D:\13.12.2018\SoftUni\Judge\LeetCode\LeetCode\02. Add Two Numbers\bin\Debug\netcoreapp2.1\02. Add Two Numbers.deps.json
+D:\13.12.2018\SoftUni\Judge\LeetCode\LeetCode\02. Add Two Numbers\bin\Debug\netcoreapp2.1\02. Add Two Numbers.runtimeconfig.json
+D:\13.12.2018\SoftUni\Judge\LeetCode\LeetCode\02. Add Two Numbers\bin\Debug\netcoreapp2.1\02. Add Two Numbers.runtimeconfig.dev.json
+D:\13.12.2018\SoftUni\Judge\LeetCode\LeetCode\02. Add Two Numbers\bin\Debug\netcoreapp2.1\02. Add Two Numbers.dll
+D:\13.12.2018\SoftUni\Judge\LeetCode\LeetCode\02. Add Two Numbers\bin\Debug\netcoreapp2.1\02. Add Two Numbers.pdb
+D:\13.12.2018\SoftUni\Judge\LeetCode\LeetCode\02. Add Two Numbers\obj\Debug\netcoreapp2.1\02. Add Two Numbers.csprojAssemblyReference.cache
+D:\13.12.2018\SoftUni\Judge\LeetCode\LeetCode\02. Add Two Numbers\obj\Debug\netcoreapp2.1\02. Add Two Numbers.csproj.CoreCompileInputs.cache
+D:\13.12.2018\SoftUni\Judge\LeetCode\LeetCode\02. Add Two Numbers\obj\Debug\netcoreapp2.1\02. Add Two Numbers.AssemblyInfoInputs.cache
+D:\13.12.2018\SoftUni\Judge\LeetCode\LeetCode\02. Add Two Numbers\obj\Debug\netcoreapp2.1\02. Add Two Numbers.AssemblyInfo.cs
+D:\13.12.2018\SoftUni\Judge\LeetCode\LeetCode\02. Add Two Numbers\obj\Debug\netcoreapp2.1\02. Add Two Numbers.dll
+D:\13.12.2018\SoftUni\Judge\LeetCode\LeetCode\02. Add Two Numbers\obj\Debug\netcoreapp2.1\02. Add Two Numbers.pdb
